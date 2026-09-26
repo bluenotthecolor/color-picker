@@ -1,0 +1,9 @@
+*.py
+*.pyw
+*.spec
+build/
+dist/
+*.zip
+requirements.txt
+*.exe
+*.ico
