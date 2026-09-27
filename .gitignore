@@ -1,9 +1,5 @@
-*.py
-*.pyw
-*.spec
 build/
 dist/
-*.zip
-requirements.txt
-*.exe
-*.ico
+installer-output/
+__pycache__/
+*.pyc
